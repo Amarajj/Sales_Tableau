@@ -1,6 +1,6 @@
 # Sales_Tableau
 
-##Visual Display of Sales Analysis project
+# Visual Display of Sales Analysis project
 
 
 
